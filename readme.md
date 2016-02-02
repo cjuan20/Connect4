@@ -26,5 +26,3 @@ Two players emoji themed Connect 4 game. Game ends and restarts when one player 
 -Cleaner code
 
 
-
-
