@@ -3,7 +3,7 @@
 This is a simple Connect 4 game.
 
 -----
-Play the game here: 
+Play the game here: http://cjuan20.github.io/Connect4/
 
 ###Game description
 Two players emoji themed Connect 4 game. Game ends and restarts when one player connects 4 of the same color pieces vertically, horizontally or diagonally. 

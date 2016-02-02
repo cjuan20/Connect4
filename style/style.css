@@ -71,7 +71,7 @@ input {
 }
 
 .gameboard {
-	width: 810px;
+	width: 825px;
 	height: 680px;
 	background-color: #0d85fe;
 	display: inline-block;
